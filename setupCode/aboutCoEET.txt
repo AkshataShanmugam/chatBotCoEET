@@ -1,0 +1,136 @@
+Common FAQs:
+
+What is CoEET? 
+The Educational Technology Innovation Center (ETIC) at NIIT University (NU) creates pedagogic innovations using industry-linked projects. The intense student engagements that these pedagogic initiatives opened up made it necessary to have a dedicated team which would facilitate the implementation of such projects. 
+This student group forms the Center of Excellence in Educational Technology (CoEET). CoEET is responsible for the planning, coordination, and execution of more than 60 Educational Technology projects at NU each semester, through its various desks. 
+
+Who can be part of the team?
+The team comprises students from different years selected as Teaching Assistants for key roles. All students are invited to apply for this prestigious group and through a transparent and rigorous selection system, fair representation is ensured to all streams of study at NU – Computer Science, Biotechnology, IMBA, etc. 
+Prior experience working with the CoEET team will be duly considered. The role also requires a minimum commitment of 1-2 hours per day for research, planning, and executing these academic tasks. We look for bright minds who can work in a self-directed mode and coordinate within a group. 
+
+What do we get by being part of this team?
+Each role carries a Certificate of Learning Mentorship, that the industry values, and a monthly stipend for the duration of the tenure. 
+The stiped will be paid on a pro-rata basis at the end of the tenure. The stipend and certificate will be granted only upon satisfactory completion of the assigned academic responsibilities.
+
+What are the different roles in CoEET?
+Broadly, every student will get selected as a Teaching Assistant, although their position in the CoEET team could be a Teaching Assistant(TA) or an Learning Assistant(LA). The role of a TA is given to an experienced member that is someone who has been part of CoEET team activities for at least a semester. The role of a LA is undertaken by students who are joining the team as a first timer. The number of vacanies in the TA and LA positions vary year by year.
+
+What type of projects does the CoEET team undertake?
+Every project ensures the interfacing of multiple subjects so that students realize the interdisciplinary nature of real-life problems and therefore do not learn in silos. Project teams comprised of students from both BTech & Management take on industry-relevant roles, conduct research on real industry problems in various threshold domains and propose solutions. 
+The Industry becomes a partner in their learning by providing them with real-industry problems and tools to solve them. Students are awarded marks in their respective subjects for their contribution to the project solution. 
+
+How does this connect with the industry?
+This experiential learning-based multi-disciplinary approach is inspired by NU's core tenets– Industry-linked, Research-driven, Technology-based, and Seamless. The outcome is that students are prepared to handle market uncertainty in the following ways.
+Technology skills – they have skills that the Industry needs. Workplace skills – most 21st Century skills are developed in project-based learning mode. Unknown job readiness – they can navigate new learning and situations. Changing technology trends – they can adapt to all new technologies for learning and growth. 
+
+How can we apply to team CoEET?
+In the beginning of each semester, applications are rolled out by the Team through an email. You can use the email or directly check out the Announcements Page in the ETIC portal to get the application form. You are required to read the information provided in the email and the portal carefully before applying for any role. Make sure to submit your forms well before the deadlines.
+
+What is the process after submitting the application form?
+Once you submit the application form, all communication will be shared over email. Applied students will be required to take an aptitude and Higher Order thinking test, the link for which will be provided via email. The qualifying TAs will be called in for an interview with the Director of Educational Technology, Prof. Gautham More and the Head of CoEET.
+
+What is ETIC?
+The Education Technology Innovation Center (ETIC) at NU envisions an interfacing of academic and professional communities.  These communities network and engage as partners and small-collaborative-workflow-groups.
+The ETIC at NU facilitates this engagement of groups and their instruction through various educational technology projects executed under the Additive Curriculum Framework.
+
+What is the ETIC portal?
+The ETIC portal is an online repository designed to help students as well as Faculty by providing access to information on projects executed by NUtons. It will host all the resources required to prepare for the projects under the Additive Curriculum approach and provide significant information on how a project should be executed and serve as a guideline for students. 
+The portal also gives details of current CoEET team members, highlights announcements of various projects that get launched from time to time and provides separate sections for different projects that have been executed in the past. Details of such past projects that will be useful to students is organized year-wise for easier access. This includes project reports, presentations, project submission videos, etc. that showcase how the projects were executed.
+
+What is the Additive Curriculum?
+The additive curriculum at NIIT University enhances the traditional academic curriculum by integrating projects and activities that focus on practical skills and experiential learning. This approach aims to provide students with hands-on experiences, industry exposure, and opportunities for soft skills development, fostering a holistic education. 
+Key components include technical workshops by industry mentors, research projects, and interdisciplinary learning, all designed to complement core subjects. The goal of the additive curriculum is to equip students with a diverse skill set and real-world experience, preparing them for successful careers and enabling them to adapt to evolving industry demands.
+
+What is Experiential Learning?
+Experiential learning is a learning approach that emphasizes the importance of direct experience and reflection in the learning process. It involves engaging students in hands-on activities, projects, or real-world situations where they can actively participate and apply theoretical knowledge. Experiential learning fosters critical thinking, creativity, and problem-solving skills, making it an effective method for deepening understanding and retaining knowledge. 
+
+What are the survey forms?
+The survey forms are three forms, released during the Reasonance and in the beginning of the first year for students to understand about their career aspirations, skills and learning style.
+
+What is the Career Preference Form?
+Have you ever wondered what led you to choose BTech or iMBA? To help identify your areas of interest and explore various career options, please carefully read the details and honestly fill out the Career Preference Form. The form sets out a list of careers in the programs offered by NIIT University. The recommended career options are sourced from websites like Nasscom and World Economic Forum and ractified by the Director of Educational Technology and Faculty at NU.
+
+What is the Skills Survey Form?
+Skills Survey Form, designed to help you identify and understand the diverse skills within you. This form is to understand your different skills and it will help us in mapping you to project roles. it also helps you identify the skills you have and maximize them. It helps you recognize your current abilities and let us know where you're starting from.
+
+What is the Know My Learning Style (KMLS) Form?
+Everyone has unique learning style/preference. This comprehensive form has been created to help you in identifying your unique learning preferences. By understanding your learning style, you can optimize your learning experiences and enhance your overall performance.
+
+Got questions?
+Email at: nucoeet@st.niituniversity.in
+
+The projects executed under CoEET in Academic Year (AY) 23-24 Semester 2 are:
+
+
+Project CBDB, Academic Year (AY) 23-24 Semester 2
+Dr. Anand Mishra and Dr. Aniruddha Khuman have launched a first-of-its-kind project for Second Year Biotechnology students - Project CBDB. As part of the Additive Curriculum framework, this innovative project interfaces Computational Biology with Database Management System (DBMS). 
+In the first group that deals with Chromosome Mapping, students will delve into analyzing genomic sequences obtained from databases like NCBI. They will engage in query processing, sequence alignment, design of a relational database schema, and visualization of data. In the second group, Sequence Alignment and Analysis, students will explore biological sequences from databases like NCBI and UniProt. This phase involves converting a semi-structured database to a structured database and using the data for storage and multiple analysis. 
+While emphasizing a comprehensive understanding of database concepts and their practical application in genome analysis, Project CBDB also aims to enrich students' higher-order thinking skills like analysis and synthesis. For more detailed information and guidelines, refer to the ETIC portal.
+
+Course ET 401: Design Your Own Learning Journey, Academic Year (AY) 23-24 Semester 2
+Launched under the guidance of Dr. Jetendra Joshi, ET 401 offers a refreshing change from traditional curriculum in that it is customizable. With no fixed classes, students can direct themselves into five engaging projects tailored to their interests and goals.  
+Project 1: Continue with their previous semester project under the Additive Curriculum approach: BTech students work on refining their 4/5th semester projects by adding new features to it or improving the functionality, optimizing the code. Management students work on refining the market analysis, marketing strategies and operational procedures. 
+Project 2: Become a project Mentor and help a team achieve their goals: Transitioning into mentors, students get an opportunity to leverage their existing knowledge and experience to assist their juniors in their projects. 
+Project 3: Demonstrate growth and development through self-directed learning skills: Students demonstrate their growth and skill development in an area of their personal interest through a reflective narrative that shows their self-directed learning skills.
+Project 4: Become industry ready through relevant skill development:Students have to identify target roles in an industry of choice and outline a strategic plan to acquire the necessary skills and competencies in the area. Students work on a project to begin their development in the identified domain.
+Project 5: Through Digital storytelling, highlight their growth as a learner: Students have to come up with a digital narrative including the challenges overcome, milestones achieved, their progress and personal evolution from the key aspects of the above mentioned 4 projects. For more detailed information and guidelines, refer to the ETIC portal.
+
+DigiSEL 2.0, Academic Year (AY) 23-24 Semester 2
+DigiSEL (Digital Storytelling in English Literature) is an innovative project aimed at interfacing the realms of English Literature and Technology. Facilitated by Dr.Ratika Kaushik, this project aims at cultivating key skills such as research, documentation, critical thinking, and digital storytelling in students of English Literature. 
+Students are encouraged to apply for mentorship in either the Project Circuitech (workshop practice) or i-MADS (MIV2) based on their interests and skills. They will get to hone the above skills in mentoring students in these projects. Along with mentoring project teams of 1st year students, they will have the opportunity to leverage technology in literary aspects of storytelling. Discover the power of storytelling in the digital age with DigiSEL 2.0! For more detailed information and guidelines, refer to the ETIC portal.
+
+Launch of CODEC 2.0, Academic Year (AY) 23-24 Semester 2
+CODEC is a collaborative project which brings together 5 subjects.  An acronym for - ‘Computer Networks and Data Communication, Operating Systems, Database Management, ET and Cybersecurity', CODEC seeks to provide students an understanding of the inter-dependence of subjects in cutting-edge technology. 
+This project is launched under the guidance of the faculties - Prof. Vijay Mandke, Dr. Kumar Nitesh, Dr. Anand Kumar Mishra, Dr. Anirban Das, Prof. Meera Datta, Prof. Surendar Singh, Prof. Manish Hurkat and Prof. Dheeraj Tripathi for 2nd Year BTech students. NUtons work on projects carried forward from the previous semester which involved integrating Object-Oriented Programming with the hardware prototypes of their workshop practice projects.
+For Database Management Systems, students would be required to create robust database structures, meticulously crafting entities and tables to lay the foundation for efficient data management. Under Operating Systems, they would employ profilers to assess applications on various platforms. For the Computer Networks & Data Communication component of the project, emphasis would be laid on demonstration of constructing network infrastructures for smooth data flow. 
+Under Cyber Security, students’ task would be to identify and mitigate potential vulnerabilities across the application and network infrastructure. Lastly, ET (Learning Technology Skills Futures), focuses on honing learning skills by identifying and aligning learning and business processes. For more detailed information and guidelines, refer to the ETIC portal.
+
+Project i-MADS, Academic Year (AY) 23-24 Semester 2
+The project i-MADS , Image Processing using Math & Data Structures is tailored for first-year students, currently enrolled in the courses - Linear Algebra & Differential Equations and Data Structures & Algorithms. Under the expert guidance of Dr. Sachin Pathak, Dr. Dinesh Kumar, Dr. Shweta Malwe and Dr. Supratik Banerjee, this industry-linked project seamlessly integrates mathematical principles with computer science concepts.
+In this integrated project, students explore the application of key linear algebra and data structures concepts in image processing, leveraging industry-utilized tools like LabelBox. This gives NUtons hands - on exposure to real life industry work situations. Spanning 6-8 weeks, this project is mentored by second-year students who have had exposure to it last year. 
+Additionally, students get to interact with industry professionals, gaining first hand knowledge from them making this  project a wonderful opportunity to bridge theory with practical industry applications. For more detailed information and guidelines, refer to the ETIC portal.
+
+Circuitech, Academic Year (AY) 23-24 Semester 2
+Circuitech project (Workshop practice) has been launched under the guidance of Dr. Jetendra Joshi for first-year BTech students. This project is designed to offer students a hands-on learning experience as they explore industry centric IoT based topics. Students are grouped into teams and given industry-relevant roles after which, they are required to prepare a working prototype and a research paper to support their project. 
+The project runs for 2 months during which students are monitored regarding their progress and learning from the project through mid reports and evaluations. The same project would be carried forward to their 2nd year where the students work on advanced features of their prototype integrating object oriented programming languages like Java to build interfaces. 
+This additive  nature of the project allows students to deepen their understanding across multiple semesters, culminating in a fully functional prototype and IOT application ready for deployment in the industry. For more detailed information and guidelines, refer to the ETIC portal.
+
+The projects executed under CoEET in Academic Year (AY) 23-24 Semester 1 are:
+
+iMBA Project NU-Pitchers, Academic Year (AY) 23-24 Semester 1
+NU-Pitchers - the first Additive Curriculum project for iMBA students has been launched this semester! Prof. (Dr) Deepak Khanna's course on Entrepreneurship & Startup Ecosystem forms the core of this project with teams developing a Startup idea. Each of the four members will have industry-relevant roles that help to focus on different areas of the startup idea.
+The 4 member team is to deliver the following outcomes: Concept statement that highlights the problem to be solved. Internal and external evaluations by team members and potential customers. One minute elevator pitch as well as a Pitch deck for potential investors.A detailed business plan month by month.
+The project  outcomes are strengthened by Dr. Abhisek Dutta who blends the concepts of Marketing Management into it and ensures that the startup team hones its skills in the marketing domain through Situation analysis, Marketing Strategy, Financials and Controls. A detailed evaluation rubric ensures that NUtons are able to apply the marketing concepts in this project.
+Dr. Ratika Kaushik further enhances the outcomes by empowering the project teams through the Communication Proficiency and Professional Skills  course which ensures key skills in communication and team dynamics are inculcated in them. This covers topics such as motivation, leadership, teamwork, conflict management and stress management which are to be demonstrated by the project teams. 
+Guidelines are provided by each Faculty on the outcomes expected. While focusing on creating a solution that addresses real-life problems, NUtons will also be able to understand the inter-dependence of the subjects being learnt in their curriculum. Under the framework of the Additive Curriculum, they also get an opportunity to reflect on how value has to be created for a customer. For more detailed information and guidelines, refer to the ETIC portal.
+
+Project Synergy, Academic Year (AY) 23-24 Semester 1
+Welcome to Project Synergy initiated by Professor Manish Hurkat for 2nd Year BTech students in their 3rd Semester! Students bring forward a project from the previous semester which involved designing an IOT-based working prototype using various electronic components.  They will now work on advanced features for their prototype, integrating it with software, specifically, programming languages like Java. 
+Under the guidance of Prof. Manish, students will implement the principles of Object Oriented Programming to build a user-friendly interface (front-end system) for the prototype to project the data captured through sensors onto a website or dashboard. So what is attempted is a synergy where hardware and software speak to each other through data!
+At the end of the project students have to deliver a comprehensive presentation on how the solution was developed and demonstrate how the code runs. Students gain more in-depth knowledge as they work on the same project and prototype over several semesters, which helps them create a fully functional application with features that can be used in the real world. For more detailed information and guidelines, refer to the ETIC portal.
+
+Project DIP-Pers, Academic Year (AY) 23-24 Semester 1
+Are you interested in learning about image processing and computer vision? Do you want to gain hands-on experience building a machine-learning model? Then Project DIP-Pers is for you! This project for 3rd Year BTech is launched under the guidance of our Subject Matter Expert Dr. Vikas Upadhyaya, and the Industry Mentor Mr. Jignesh Talasila, CEO of PerspectAI.
+You will learn how to: Use Label Box to annotate images. Preprocess images and annotations for machine learning. Evaluate the performance of a CNN model on the dataset created by the processes of annotation by you.
+What you will gain: Hands-on experience with image processing, computer vision, and machine learning. Knowledge of the latest tools and techniques in the field. A chance to work on a real-world problem with an Industry customer. For more detailed information and guidelines, refer to the ETIC portal.
+
+Learners' Premier League (LPL) 
+The Learners' Premier League (LPL) is an initiative by NU that enhances the experiential learning for students by bringing in a blend of research & discovery, collaborative and real-life problem-solving methodologies into play. Implemented as a process-based PBL (Project-based learning) over a period of two months, it takes a multi-disciplinary approach by integrating five different disciplines (Chemistry, Physics, Electronics, Communication Skills, and Business Environment). 
+Student project teams take up industry-relevant roles and explore diverse domains ranging from Nanotechnology, Agriculture, Fashion, AR/VR, to Biotechnology.  Under the guidance of the Buddy and Associate Mentors and the Faculty, they will identify a real-life problem in the suggested domain/topics and also propose a solution to that problem. 
+The entire project is monitored by leveraging Project Management tools like Asana which gives NUtons exposure to industry tools. Students are guided and evaluated in their projects by a panel of professors led by Dr. Vivek Srivastava, Dr. Vinay Sharma, Dr. Vikas Upadhyaya, Dr. Anshima Srivastava and Prof. Anamoy Ranjan.
+After the final evaluations, a set of teams get shortlisted for the LPL Finale. They will then have various rounds of competition with each other, until the final winner is identified and handed the LPL Trophy. For more detailed information and guidelines, refer to the ETIC portal.
+
+M&M (Math & Mentoring), Academic Year (AY) 23-24 Semester 1
+The M&M (Math & Mentoring) Project is the newest Additive Curriculum project launched by Dr. Achintya Roy. Revolving around the subject of Probability and Random Processes, the M&M Project aims to involve students in collecting real-life data based on their everyday activities and deriving meaningful outputs from the data sets collected. 
+Students are tasked to acquire data based on their daily routines which include different variables like, sleep time, study time, time spent on social media, and many more. These are then used for academic performance analysis in their courses. 
+Additionally, they are required to mentor the First year students in their project i.e. Workshop Practice Project, Cal-SymPy, or LPL. These include parameters like - Research skills, Higher order thinking, Meeting attendance, sharing resources on Asana, etc. 
+In supporting these project teams, NUtons gain an insight into concepts of Mentoring from a Learning Engineering perspective which helps both mentor and mentee to become aware of their learning. For more detailed information and guidelines, refer to the ETIC portal.
+
+Cal-SymPy (Calculus & Python Programming), Academic Year (AY) 23-24 Semester 1
+Integrating the concepts of Calculus (15 marks) and Fundamentals of Programming using Python (20 marks), the Cal-SymPy project gives students an opportunity to explore the applications of mathematical concepts in real world scenarios. Through this project students comprehensively understand and apply the concepts of Calculus such as Partial Differential Equations, Taylor Series, Gradient Descent, etc through Python Programming to produce a mathematical model that represents a real life application. 
+Using libraries and functions in Python, they have to develop a simple code that aligns with their project objectives. Every project team will have distinct roles assigned to its team members. Each member has to work collaboratively in the team for leveraging meaningful outcomes. The project spans 10 weeks  after which students are evaluated by Dr. Ganapatirao Maradana and Dr. Supratik Banerjee on the basis of their understanding and demonstration of each concept. For more detailed information and guidelines, refer to the ETIC portal.
+
+Workshop Practice Projects, , Academic Year (AY) 23-24 Semester 1
+The first Additive Curriculum project has been launched! Revolving around industry-relevant IoT based topics, the Workshop Practice Project aims at providing 1st year BTech students with hands-on experience in this domain. Every project team will have distinct roles assigned to its members. 
+Each member has to work collaboratively in the team for leveraging meaningful outcomes. The project teams design a working prototype using different sensors, interfacing it with Arduino, under the guidance of Dr. Jetendra Joshi. 
+Through this project students acquire the ability to convert their theoretical knowledge into tangible applications and improve their problem solving skills. For more detailed information and guidelines, refer to the ETIC portal.

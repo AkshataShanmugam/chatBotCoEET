@@ -1,0 +1,23 @@
+{
+  "name": "chatbotcoeet",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^2.8.0",
+    "@langchain/community": "^0.2.23",
+    "@langchain/core": "^0.2.20",
+    "@supabase/supabase-js": "^2.45.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.12",
+    "ollama": "^0.5.6"
+  }
+}
