@@ -50,7 +50,6 @@ In this project, you'll use LangChain.js to build a chatbot that can answer ques
 
 ```cmd
 git clone https://github.com/your-username/ChatbotCoEET.git
-cd ChatbotCoEET
 ```
 
 
