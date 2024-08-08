@@ -40,7 +40,7 @@ In this project, you'll use LangChain.js to build a chatbot that can answer ques
 - **NPM** (v8 or higher)
 - **Supabase** account
 - **HuggingFace** API key
-- **Ollama** installed and running locally. Check out Official [Ollama Website](https://ollama.com/)
+- **Ollama** installed and running locally. Check out [Official Ollama Website](https://ollama.com/) for details on how to install and run locally.
 
 
 ## Setup Instructions
@@ -116,4 +116,4 @@ Open your browser and navigate to http://localhost:5173 to interact with your ch
 ```
 
 ### Credits
-This project was inspired by the [official LangChain.js course on Scrimba](https://v2.scrimba.com/the-official-langchainjs-course-c02t:details).
+This project was inspired by the [official LangChain.js course on Scrimba](https://v2.scrimba.com/the-official-langchainjs-course-c02t:details). 
