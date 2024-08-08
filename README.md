@@ -19,7 +19,7 @@ Welcome to ChatbotCoEET! This project is a chatbot built using LangChain.js that
 
 ## Project Overview
 
-In this project, you'll use LangChain.js to build a chatbot that can answer questions about CoEET using the provided text. The application consists of several steps:
+In this project, I used LangChain.js to build a chatbot that can answer questions about CoEET using the provided text. The application consists of several steps:
 1. Splitting the text into chunks.
 2. Converting these chunks to vectors using Ollama embeddings.
 3. Storing the vectors in a Supabase vector store.
@@ -28,7 +28,7 @@ In this project, you'll use LangChain.js to build a chatbot that can answer ques
 
 ## Features
 
-- **Open-Source Embeddings**: Uses Ollama for embeddings, ensuring the project is completely open-source.
+- **Open-Source Embeddings and Querying**: A fully open-source chatbot using LangChain.js, integrating HuggingFace embeddings for text processing, LLaMA 3 for question-answering, Supabase for vector storage, and Vite for frontend development.
 - **Vector Store**: Stores vectors in Supabase, making it easy to scale and manage your data.
 - **Conversation Handling**: Maintains conversation history to provide context-aware responses.
 - **Scalable Setup**: Easily deploy and extend the chatbot with new text data.
@@ -40,7 +40,7 @@ In this project, you'll use LangChain.js to build a chatbot that can answer ques
 - **NPM** (v8 or higher)
 - **Supabase** account
 - **HuggingFace** API key
-- **Ollama** installed and running locally. Check out [Official Ollama Website](https://ollama.com/) for details on how to install and run locally.
+- **Ollama** installed and running locally. Check out the [Official Ollama Website](https://ollama.com/) for details on how to install and run locally.
 
 
 ## Setup Instructions
